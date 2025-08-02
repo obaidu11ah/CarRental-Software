@@ -72,7 +72,7 @@ This Car Rental Software allows users to register, login, rent cars, return cars
 
 > All JFrames include designed visuals with icons/images for a user-friendly interface.
 
-![Login Screenshot](path/to/login_image.png)  
+![Login Screenshot](https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/images/WhatsApp%20Image%202023-12-01%20at%2022.30.37_66ee60e8%20(1).jpg)  
 ![Register Screenshot](path/to/register_image.png)  
 ![Rent Screenshot](path/to/rent_image.png)  
 ![Return Screenshot](path/to/return_image.png)
