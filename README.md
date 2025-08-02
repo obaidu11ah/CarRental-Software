@@ -1,4 +1,4 @@
-# CarRental-Software 🚗
+# CarRental-Software 
 
 A professional Java-based desktop application for managing car rental operations, developed using Eclipse IDE with a user-friendly Swing GUI. This project demonstrates complete CRUD functionalities, database connectivity using JDBC, and core Object-Oriented Programming (OOP) concepts.
 
