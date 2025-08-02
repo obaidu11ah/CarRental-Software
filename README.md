@@ -69,32 +69,19 @@ This Car Rental Software allows users to register, login, rent cars, return cars
 ---
 ## 📚 Documentation 
 
-The following SDLC documents are handwritten . You can preview or download them from the `/docs` folder:
+### 📚 Documentation (SDLC Artifacts)
 
-| Document | Description | |Doc Link|
+All SDLC-phase documents are handwritten and available in the [`/docs`](https://github.com/obaidu11ah/CarRental-Software/tree/main/lib/SRE%20Documnet) folder.
 
-| URD.pdf | User Requirements Document | 
+| 📄 Document                      | 🔗 View / Download Link                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------------------|
+| **User Requirements (URD)**       | [View URD.pdf](https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/User%20Requirements%20Document.pdf)            |
+| **Software Requirements (SRS)**  | [View SRS.pdf](https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/SRS%20CarRental.pdf)                          |
+| **Data Flow Diagrams (DFD)**     | [View DFD.pdf](https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/DATA%20FLOW%20DIAGRAMS.pdf)                    |
+| **UML Class Diagram**            | [View ClassDiagram.pdf](https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/CLASS%20DIAGRAMS.pdf)                 |
+| **UML Activity Diagram**         | [View ActivityDiagram.pdf](https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/ACTIVITY%20DIAGRAMS.pdf)           |
+| **Feature Analysis Document**    | [View FeatureAnalysis.pdf](https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/Feature%20Analysis%20Document.pdf) |
 
-➡️https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/User%20Requirements%20Document.pdf
-
-| SRS.pdf | Software Requirements Specification |
-
-➡️ https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/SRS%20CarRental.pdf
-
-| DFD.pdf | Data Flow Diagram | 
-
-➡️ https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/DATA%20FLOW%20DIAGRAMS.pdf 
-
-| ClassDiagram.pdf | UML Class Diagram |
-
-➡️ https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/CLASS%20DIAGRAMS.pdf 
-
-| ActivityDiagram.pdf | UML Activity Diagram | 
-➡️ https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/ACTIVITY%20DIAGRAMS.pdf 
-
-| FeatureAnalysis.pdf | | FeatureAnalysis Documnet|
-
-➡️https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/Feature%20Analysis%20Document.pdf
 
 
 
