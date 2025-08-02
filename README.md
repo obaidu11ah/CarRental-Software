@@ -76,21 +76,26 @@ The following SDLC documents are handwritten . You can preview or download them 
 |----------|-------------| |--------|
 
 | URD.pdf | User Requirements Document | 
-| https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/User%20Requirements%20Document.pdf
+
+➡️https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/User%20Requirements%20Document.pdf
 
 | SRS.pdf | Software Requirements Specification |
+
 ➡️ https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/SRS%20CarRental.pdf
 
 | DFD.pdf | Data Flow Diagram | 
+
 ➡️ https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/DATA%20FLOW%20DIAGRAMS.pdf 
 
 | ClassDiagram.pdf | UML Class Diagram |
+
 ➡️ https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/CLASS%20DIAGRAMS.pdf 
 
 | ActivityDiagram.pdf | UML Activity Diagram | 
 ➡️ https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/ACTIVITY%20DIAGRAMS.pdf 
 
 | FeatureAnalysis.pdf | | FeatureAnalysis Documnet|
+
 ➡️https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/Feature%20Analysis%20Document.pdf
 
 
@@ -108,30 +113,6 @@ The following SDLC documents are handwritten . You can preview or download them 
 5. **Testing** – CRUD + return logic tested  
 6. **Deployment** – Ready-to-run in Eclipse  
 7. **Maintenance** – Easy to extend with new features
-
-
-## 📁 Folder Structure
-CarRental-Software/
-├── src/
-│ ├── LoginFrame.java
-│ ├── RegisterCustomer.java
-│ ├── CarRegistration.java
-│ ├── RentCar.java
-│ └── ReturnCar.java
-├── lib/
-│ └── JCalendar-1.4.jar
-├── images/
-│ └── [all GUI image assets]
-├── docs/
-│ ├── URD.pdf
-│ ├── SRS.pdf
-│ ├── DFD.pdf
-│ ├── ClassDiagram.pdf
-│ ├── ActivityDiagram.pdf
-│ ├── FeatureAnalysis.pdf
-│ └── SDLC-Phases.pdf
-└── README.md
-
 
 ---
 ## 📸 Demo
