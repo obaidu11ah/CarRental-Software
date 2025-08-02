@@ -72,13 +72,21 @@ This Car Rental Software allows users to register, login, rent cars, return cars
 The following SDLC documents are handwritten . You can preview or download them from the `/docs` folder:
 
 | Document | Description | |Doc Link|
+
 |----------|-------------| |--------|
+
 | URD.pdf | User Requirements Document | | https://shorturl.at/N0JlG|
+
 | SRS.pdf | Software Requirements Specification | | https://shorturl.at/L1Lkf |
+
 | DFD.pdf | Data Flow Diagram | | https://shorturl.at/t2wxy |
+
 | ClassDiagram.pdf | UML Class Diagram | | https://shorturl.at/DuGje |
+
 | ActivityDiagram.pdf | UML Activity Diagram | | https://tinyurl.com/572dj8c8 |
+
 | FeatureAnalysis.pdf | Feature Analysis Document | | https://tinyurl.com/uy8vv2aa |
+
 
 
 ---
