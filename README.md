@@ -73,8 +73,6 @@ The following SDLC documents are handwritten . You can preview or download them 
 
 | Document | Description | |Doc Link|
 
-|----------|-------------| |--------|
-
 | URD.pdf | User Requirements Document | 
 
 ➡️https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/User%20Requirements%20Document.pdf
@@ -115,8 +113,11 @@ The following SDLC documents are handwritten . You can preview or download them 
 7. **Maintenance** – Easy to extend with new features
 
 ---
-## 📸 Demo
+📸 Demo
+🎥 Watch the Live Demo of the Car Rental Software:
+🔗 Click Here to View Demo Video
 
+This short video demonstrates the key features and functionality of the Car Rental Software including:
 > All JFrames include designed visuals with icons/images for a user-friendly interface.
 Login Screenshot
 > 
