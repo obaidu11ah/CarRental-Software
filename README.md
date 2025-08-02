@@ -115,11 +115,11 @@ The following SDLC documents are handwritten . You can preview or download them 
 ---
 ## 📸 Demo
 
-🎥 **Watch Live Demo Video**
+🎥 **Watch Demo Video of Car Rental Software**  
+Click the link below to see a full video demonstration of the Java Swing-based Car Rental System including login, renting, returning, and GUI interaction.
 
-<iframe src="https://drive.google.com/uc?export=preview&id=1skT6TmrqmeFNUfPKCqmQrRbwNHNZk2ti" width="640" height="360" allow="autoplay"></iframe>
+🔗 [▶ Watch Demo on Google Drive](https://drive.google.com/file/d/1skT6TmrqmeFNUfPKCqmQrRbwNHNZk2ti/view?usp=sharing)
 
-> This video demonstrates the full functionality of the Car Rental Software including GUI operations (login, car rent/return), database integration, and real-time updates. Built using Java Swing and connected with MySQL database.
 
 
 
