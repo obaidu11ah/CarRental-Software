@@ -113,9 +113,12 @@ The following SDLC documents are handwritten . You can preview or download them 
 7. **Maintenance** – Easy to extend with new features
 
 ---
-📸 Demo
+## 📸 Demo
+
 🎥 Watch the Live Demo of the Car Rental Software:
-🔗 Click Here to View Demo Video
+
+![Login Screenshot] (https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/Demo%20Video/demo%20video.mp4)
+
 
 This short video demonstrates the key features and functionality of the Car Rental Software including:
 > All JFrames include designed visuals with icons/images for a user-friendly interface.
