@@ -75,17 +75,17 @@ The following SDLC documents are handwritten . You can preview or download them 
 
 |----------|-------------| |--------|
 
-| URD.pdf | User Requirements Document | | https://shorturl.at/N0JlG|
+| URD.pdf | User Requirements Document | | https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/User%20Requirements%20Document.pdf |
 
-| SRS.pdf | Software Requirements Specification | | https://shorturl.at/L1Lkf |
+| SRS.pdf | Software Requirements Specification | | https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/SRS%20CarRental.pdf |
 
-| DFD.pdf | Data Flow Diagram | | https://shorturl.at/t2wxy |
+| DFD.pdf | Data Flow Diagram | | https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/DATA%20FLOW%20DIAGRAMS.pdf |
 
-| ClassDiagram.pdf | UML Class Diagram | | https://shorturl.at/DuGje |
+| ClassDiagram.pdf | UML Class Diagram | | https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/CLASS%20DIAGRAMS.pdf |
 
-| ActivityDiagram.pdf | UML Activity Diagram | | https://tinyurl.com/572dj8c8 |
+| ActivityDiagram.pdf | UML Activity Diagram | | https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/ACTIVITY%20DIAGRAMS.pdf |
 
-| FeatureAnalysis.pdf | Feature Analysis Document | | https://tinyurl.com/uy8vv2aa |
+| FeatureAnalysis.pdf | https://github.com/obaidu11ah/CarRental-Software/blob/main/lib/SRE%20Documnet/Feature%20Analysis%20Document.pdf|
 
 
 
